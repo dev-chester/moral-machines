@@ -1,0 +1,8 @@
+EthicalEngine - COMP90041 - Final Project
+Usage: java EthicalEngine [arguments]
+
+Arguments:
+-c or --config	Optional: path to config file
+-h or --help	Print Help (this message) and exit
+-r or --results	Optional: path to results log file
+-i or --interactive	Optional: launches interactive mode
